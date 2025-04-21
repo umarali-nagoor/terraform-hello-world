@@ -1,3 +1,3 @@
 provider "ibm" {
- # Configuration options
+ version = "1.10.5"
 }
