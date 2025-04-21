@@ -1,3 +1,3 @@
-provider "ibm2" {
+provider "ibm" {
  # Configuration options
 }
