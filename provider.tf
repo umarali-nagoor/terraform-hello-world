@@ -1,3 +1,4 @@
-provider "ibm" {
- version = "1.10.5"
+
+terraform {
+  required_version = "= 1.10.5"
 }
